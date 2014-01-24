@@ -1,4 +1,5 @@
-node-hello
-==========
+hello
+=====
 
-node hello module
+hello world
+

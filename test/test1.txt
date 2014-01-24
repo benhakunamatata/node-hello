@@ -1,0 +1,6 @@
+console.log('hello');
+
+var h = require('../lib/index');
+
+h.print();
+

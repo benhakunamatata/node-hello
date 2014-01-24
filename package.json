@@ -1,0 +1,16 @@
+{
+  "name": "hello",
+  "version": "0.1.0-SNAPSHOT",
+  "description": "hello =====",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.scm.corp.ebay.com:weima/hello.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "ebay": {}
+}
